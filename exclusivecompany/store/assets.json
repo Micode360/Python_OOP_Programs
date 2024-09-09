@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mac Book Laptop",
+        "quantity": "10",
+        "price": "2000"
+    },
+    {
+        "name": "Edc Estate",
+        "quantity": "6",
+        "price": "50000"
+    },
+    {
+        "name": "Bentley",
+        "quantity": "4",
+        "price": "1500"
+    },
+    {
+        "name": "Hotels",
+        "quantity": "20",
+        "price": "6000"
+    },
+    {
+        "name": "Cartier",
+        "quantity": "10",
+        "price": "1200"
+    }
+]
