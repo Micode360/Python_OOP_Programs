@@ -5,7 +5,7 @@ class ServiceManager:
         
     def run(self):
         while True:
-            print('Hello welcome to  mi-global network. What service do you like to use?')
+            print('Hello welcome to mi-global network. What service do you like to use?')
             print('1. Mirabank\n2. Exit')
             choice = input("Choose 1/2: ")
 
