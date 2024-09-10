@@ -1,5 +1,5 @@
-from deposit import Deposit
-from file import File
+from mirabank.deposit import Deposit
+from mirabank.file import File
 
 class Check_Balance(File):
     def __init__(self):

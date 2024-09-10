@@ -1,6 +1,6 @@
 import re
 import random
-from file import File
+from mirabank.file import File
 
 class Create_Account(File):
     def __init__(self):

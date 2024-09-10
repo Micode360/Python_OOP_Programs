@@ -1,5 +1,5 @@
 import re
-from file import File
+from mirabank.file import File
 
 class Deposit(File):
     def __init__(self):

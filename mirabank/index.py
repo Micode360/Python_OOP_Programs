@@ -1,8 +1,8 @@
-from deposit import Deposit
-from check_balance import Check_Balance
-from create_account import Create_Account
-from delete_account import Delete_Account
-from account_info import Account_Info
+from mirabank.deposit import Deposit
+from mirabank.check_balance import Check_Balance
+from mirabank.create_account import Create_Account
+from mirabank.delete_account import Delete_Account
+from mirabank.account_info import Account_Info
 
 class MiraBank:
     def __init__(self):
@@ -33,7 +33,3 @@ class MiraBank:
                 break
             else:
                 continue
-
-
-mirabank = MiraBank()
-mirabank.run()

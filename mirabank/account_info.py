@@ -1,5 +1,5 @@
-from deposit import Deposit
-from file import File
+from mirabank.deposit import Deposit
+from mirabank.file import File
 
 class Account_Info(File):
     def __init__(self):

@@ -1,5 +1,5 @@
-from deposit import Deposit
-from file import File
+from mirabank.deposit import Deposit
+from mirabank.file import File
 
 class Delete_Account(File):
     def __init__(self):
