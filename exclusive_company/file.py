@@ -4,11 +4,13 @@ import json
 class File:
     @staticmethod
     def save_to_file(filename, data):
-        if not os.path.exists('store'):
-            os.makedirs('store')
+        directory = 'exclusive_company/store'
+        if not os.path.exists(directory):
+            os.makedirs(directory)
         
         try:
-            with open(f"store/{filename}", 'w') as file:
+            file_path = os.path.join(directory, filename)
+            with open(file_path, 'w') as file:
                 json.dump(data, file, indent=4)
             print(f"{filename} saved")
         except IOError as e:
@@ -16,8 +18,9 @@ class File:
 
     @staticmethod
     def load_from_file(filename):
+        file_path = os.path.join('exclusive_company/store', filename)
         try:
-            with open(f"store/{filename}", "r") as file:
+            with open(file_path, 'r') as file:
                 return json.load(file)
         except FileNotFoundError:
             print(f"{filename} not found.")

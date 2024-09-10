@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Mac Book Laptop",
+        "quantity": "10",
+        "price": "2000"
+    },
+    {
+        "name": "Edc Estate",
+        "quantity": "6",
+        "price": "50000"
+    },
+    {
+        "name": "Bentley",
+        "quantity": "4",
+        "price": "1500"
+    },
+    {
+        "name": "Hotels",
+        "quantity": "20",
+        "price": "6000"
+    },
+    {
+        "name": "Cartier",
+        "quantity": "10",
+        "price": "1200"
+    },
+    {
+        "name": "Private Jet",
+        "quantity": 3,
+        "price": 2400000.0
+    },
+    {
+        "name": "Helicopter",
+        "quantity": 5,
+        "price": 250000.0
+    },
+    {
+        "name": "Yacht",
+        "quantity": 3,
+        "price": 350000.0
+    },
+    {
+        "name": "Estate",
+        "quantity": 10,
+        "price": 150000.0
+    },
+    {
+        "name": "Bitcoin",
+        "quantity": 10000,
+        "price": 10000.0
+    },
+    {
+        "name": "Plaza",
+        "quantity": 50,
+        "price": 3890.0
+    }
+]

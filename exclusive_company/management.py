@@ -1,4 +1,4 @@
-from file import File
+from exclusive_company.file import File
 
 class Management(File):
     def __init__(self):
