@@ -1,4 +1,5 @@
 from mirabank.index import MiraBank
+
 class ServiceManager:
     def __init__(self):
         self.mira_bank = MiraBank()
