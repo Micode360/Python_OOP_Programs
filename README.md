@@ -114,3 +114,9 @@ If you'd like to contribute to the project, please follow these steps:
 - Submit a pull request only if your service is fully functional and integrates well with the existing services.
 
 Thank you for contributing to the project!
+
+## License
+
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
