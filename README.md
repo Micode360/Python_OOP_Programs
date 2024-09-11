@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hiya guys! Welcome to the **Python OOP Programs** repository, where you can create your own service using Python Object-Oriented Programming (OOP). 
+Hiya guys! Welcome to the **Python OOP Programs** repository, where you can create your own program or set of programs using Python Object-Oriented Programming (OOP). 
 
 Inside this repository, you'll find a collection of folders and a `main.py` file. Each folder contains a Python program, ranging from simple to complex, all of which are connected to the `main.py`. The `main.py` program is currently set up to run locally in the terminal. Once executed, you will be welcomed and introduced to a list of programs contributed by various developers from around the world.
 
